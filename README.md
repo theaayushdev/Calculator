@@ -1,5 +1,5 @@
-This project is a simple calculator application developed in [language/framework/library used].
+This project is a simple calculator application developed in JAVA (Using Swing)
 
-**Features**
+###Features
 
 Basic arithmetic operations: addition, subtraction, multiplication, division.
